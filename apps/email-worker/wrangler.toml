@@ -3,7 +3,7 @@ main = "src/index.ts"
 compatibility_date = "2023-12-18"
 
 [vars]
-TURSO_DB_AUTH_TOKEN = ""
+TURSO_DB_AUTH_TOKEN = "eyJhbGciOiJFZERTQSIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3MjQ5MDk4MTEsInAiOnsicnciOnsibnMiOlsiYjM4MDk4MzEtMGI1Ni00Yzg1LThiZjMtZWYzYmY5NzA2MjhiIl19fX0.atOs6OGorNSN6sW5bvNmyaBjJcqcMaQ4b9Gm3pcoU-xmyTGfkZtD8Yy4s4ni7FBwgjkinlV6byU9RonhyajTCg"
 TURSO_DB_URL = "libsql://email-jinrudy.turso.io"
 EMAIL_DOMAIN = "minifog.org.cn"
 
