@@ -4,8 +4,8 @@ compatibility_date = "2023-12-18"
 
 [vars]
 TURSO_DB_AUTH_TOKEN = ""
-TURSO_DB_URL = ""
-EMAIL_DOMAIN = "vmail.dev"
+TURSO_DB_URL = "libsql://email-jinrudy.turso.io"
+EMAIL_DOMAIN = "minifog.org.cn"
 
 # [[d1_databases]]
 # binding = "DB"
